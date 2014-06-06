@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xzela/mongodb-m101js/issues"
   },
-  "homepage": "https://github.com/xzela/mongodb-m101js"
+  "homepage": "https://github.com/xzela/mongodb-m101js",
+  "dependencies": {
+    "mongodb": "^1.4.5"
+  }
 }
